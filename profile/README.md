@@ -31,10 +31,9 @@
 
 ###
 
-<div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VNUAJAVACLASS&theme=bear" width=750  alt="stats graph"/>
-
-</div>
+<p align="center">
+	<img src="https://komarev.com/ghpvc/?username=VNUAJAVACLASS&color=blueviolet&style=flat-square&label=Profile+Views" />
+</p>
 
 ###
 
