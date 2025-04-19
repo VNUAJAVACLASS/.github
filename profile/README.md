@@ -29,6 +29,15 @@
   <img src="https://img.shields.io/badge/Public%20Repos-0-inactive" />
 </div>
 
+###
+
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VNUAJAVACLASS&theme=bear" width=750  alt="stats graph"/>
+
+</div>
+
+###
+
 ---
 
 <h2 align="center">Techs We Use</h2>
