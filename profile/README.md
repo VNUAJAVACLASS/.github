@@ -21,6 +21,14 @@
 
 ###
 
+<!-- Stats -->
+<div align="center">
+  <a href="https://github.com/VNUAJAVACLASS">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VNUAJAVACLASS&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VNUAJAVACLASS&layout=compact&langs_count=5"/>
+</div>
+
+
 <h2 align="center">Organization Stats</h2>
 
 <div align="center">
